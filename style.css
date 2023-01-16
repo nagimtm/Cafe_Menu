@@ -4,6 +4,7 @@ h1, h2, p {
 body {
     background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
     font-family: sans-serif;
+    padding: 20px;
 }
 h1, h2 {
     font-family: Impact, serif;
@@ -46,4 +47,10 @@ hr {
 
 .item p {
     display: inline-block;
+    margin: 5px 0;
+    font-size: 18px;
+}
+
+.bottom-line {
+    margin-top: 25px;
 }
